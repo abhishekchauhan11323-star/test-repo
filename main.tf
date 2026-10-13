@@ -1,4 +1,6 @@
 resource "azurerm_resource_group" "rg" {
-    name = "abhi"
+
+    name = "abhishek"
+
     location = "centralindia"
 }
